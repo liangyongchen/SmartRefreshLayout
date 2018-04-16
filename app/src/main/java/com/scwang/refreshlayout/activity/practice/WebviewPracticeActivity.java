@@ -20,7 +20,7 @@ import java.util.Locale;
 /**
  * 网页-Github
  */
-public class WebViewPracticeActivity extends AppCompatActivity {
+public class WebviewPracticeActivity extends AppCompatActivity {
 
     @SuppressLint("SetJavaScriptEnabled")
     @Override

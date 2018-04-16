@@ -23,7 +23,7 @@ import java.util.Arrays;
 import static android.R.layout.simple_list_item_2;
 import static android.support.v7.widget.DividerItemDecoration.VERTICAL;
 
-public class DropBoxStyleActivity extends AppCompatActivity implements AdapterView.OnItemClickListener {
+public class DropboxStyleActivity extends AppCompatActivity implements AdapterView.OnItemClickListener {
 
     private enum Item {
         默认主题(R.string.item_style_theme_default_abstract),
