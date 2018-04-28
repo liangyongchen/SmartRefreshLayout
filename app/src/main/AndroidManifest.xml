@@ -87,7 +87,7 @@
             android:label="@string/title_activity_style_storehouse"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".activity.style.DropBoxStyleActivity"
+            android:name=".activity.style.DropboxStyleActivity"
             android:label="@string/title_activity_style_drop_box"
             android:screenOrientation="portrait" />
         <activity
@@ -127,7 +127,7 @@
             android:label="@string/title_activity_practice_profile"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".activity.practice.WebViewPracticeActivity"
+            android:name=".activity.practice.WebviewPracticeActivity"
             android:label="@string/title_activity_practice_profile"
             android:screenOrientation="portrait" />
         <activity
